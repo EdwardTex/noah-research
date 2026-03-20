@@ -1,4 +1,4 @@
-# TridentMem LoCoMo Evaluation
+# LoCoMo Evaluation
 
 This directory contains the evaluation pipeline for SwiftMem on the LoCoMo benchmark.
 
